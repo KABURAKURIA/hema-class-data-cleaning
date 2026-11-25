@@ -1,15 +1,10 @@
-# 🩸 Hemaclass Clinical Data Cleaning & Preprocessing Suite
-
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-red.svg)](https://github.com/KABURAKURIA/hema-class-data-cleaning)
+# Hemaclass Clinical Data Cleaning & Preprocessing Suite
 
 An automated, clinical-grade data cleaning engine and interactive Streamlit web application specifically designed for preprocessing, standardizing, and validating hematological classification datasets.
 
 ---
 
-## 🏥 Problem Statement & Overview
+## Problem Statement & Overview
 
 Clinical hematology datasets frequently suffer from non-standardized categorical entries, ambiguous boolean flags, inconsistent date formatting, irregular age/sex encodings, and clinical cross-field inconsistencies. This suite provides:
 
@@ -29,7 +24,7 @@ Clinical hematology datasets frequently suffer from non-standardized categorical
 
 ---
 
-## 🛠️ Pipeline Architecture
+## Pipeline Architecture
 
 ```mermaid
 flowchart TD
@@ -46,7 +41,7 @@ flowchart TD
 
 ---
 
-## 💻 Installation & Quickstart
+## Installation & Quickstart
 
 ```bash
 # Clone the repository
@@ -62,7 +57,7 @@ streamlit run app.py
 
 ---
 
-## 📋 Technology Stack
+## Technology Stack
 
 - **Framework**: Streamlit
 - **Core Analytics**: Python, Pandas, NumPy
@@ -71,6 +66,6 @@ streamlit run app.py
 
 ---
 
-## 📄 License
+## License
 
 MIT License. See [LICENSE](LICENSE) for details.
